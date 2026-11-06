@@ -4,13 +4,10 @@
 
 <p align="left">
   <a href="mailto:darshangm077@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=darshangm077%40gmail.com" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Darshan%20G%20M" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/DARSHAN-byte77">
-     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white&label=Web3%20%26%20Three.js%20showcase" alt="Portfolio" />
+  <a href="https://linkedin.com/in/darshan-g-m">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -48,6 +45,30 @@ I am a second-year Information Science and Engineering student at Sri Siddhartha
 | 🕸️ [Supplier Trust Network](https://github.com/DARSHAN-byte77/supplier-trust-network) | 🌍 [GeoPulse 3D](https://github.com/DARSHAN-byte77/GeoPulse-3D) |
 | :--- | :--- |
 | Full-stack supplier trust scoring platform built with my hackathon team, "web spiders". Combines Node.js, Express, Three.js, and Web3 concepts to verify and score supply chain trust dynamically. | An interactive, high-frequency 3D data visualizer built to represent complex datasets dynamically. |
+
+---
+
+### ⚙️ How I work
+
+* Prefer step-by-step, terminal-driven, hands-on full-stack development setups
+* Focus on integrating dynamic data structures with interactive WebGL visual components
+* Collaborative team player for hackathons and group builds
+
+### 💡 What I'd like to build next
+
+* Real-time agentic voice assistants using Voice AI frameworks and LiveKit integration
+* Further decentralized infrastructure and blockchain-based trust networks
+
+### 📌 Pinned Repos
+
+*(You can pin these directly from your GitHub profile — use the repo links below)*
+* https://github.com/DARSHAN-byte77/supplier-trust-network
+* https://github.com/DARSHAN-byte77/GeoPulse-3D
+
+### 📬 Contact
+
+* **Email:** darshangm077@gmail.com
+* **LinkedIn:** Darshan G M
 
 ---
 
