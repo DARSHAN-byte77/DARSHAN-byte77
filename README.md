@@ -1,13 +1,16 @@
 # Hi there, I'm Darshan G M 👋
 
-<h3 align="left">Information Science & Engineering Student | Full-Stack Developer | Web3 Enthusiast</h3>
+<h3 align="left">🚀 Information Science & Engineering Student | Full-Stack Developer | Web3 Enthusiast</h3>
 
 <p align="left">
-  <a href="mailto:darshan.example@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:darshangm077@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=darshangm077%40gmail.com" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Darshan%20G%20M" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/DARSHAN-byte77">
+     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white&label=Web3%20%26%20Three.js%20showcase" alt="Portfolio" />
   </a>
 </p>
 
@@ -15,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I am a second-year engineering student at Sri Siddhartha Institute of Technology in Tumakuru. I thrive on hands-on, terminal-driven development and enjoy bridging the gap between robust backend architectures and highly interactive 3D frontend visuals.
+I am a second-year Information Science and Engineering student at Sri Siddhartha Institute of Technology (SSIT) in Tumakuru, Karnataka. I thrive on hands-on, terminal-driven development and enjoy bridging the gap between robust backend architectures and highly interactive 3D frontend visuals.
 
 - 🔭 **Currently building:** **ResQWave** — a decentralized, infrastructure-independent emergency communication system using smartphone P2P mesh and IoT relay nodes.
 - 🌱 **Currently exploring:** Voice AI frameworks, LiveKit integration, and real-time agentic voice assistants.
