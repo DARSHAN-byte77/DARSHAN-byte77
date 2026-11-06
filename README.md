@@ -4,10 +4,10 @@
 
 <p align="left">
   <a href="mailto:mallikrjunage761@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-mallikrjunage761%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/darshan-g-m-237174436">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Darshan%20G%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@ I am a second-year Information Science and Engineering student at Sri Siddhartha
 
 ### 📬 Contact
 
-* **Email:** mallikrjunage761@gmail.com
+* **Email:** [mallikrjunage761@gmail.com](mailto:mallikrjunage761@gmail.com)
 * **LinkedIn:** [Darshan G M](https://www.linkedin.com/in/darshan-g-m-237174436)
 
 ---
